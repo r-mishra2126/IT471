@@ -1,0 +1,11 @@
+print("HOw old are you??")
+age=input()
+print("HOw tall are you??")
+height=input()
+print("HOw weigh are you??")
+weight=input()
+print("So, youare %r old, %r tall and %r heavy"%(age, height,weight))
+print("So, youare %s old, %s tall and %s heavy"%(age, height,weight))
+
+c=eval(input("enter the value"))
+print(c)
