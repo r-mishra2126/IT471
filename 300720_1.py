@@ -1,6 +1,5 @@
-a=eval(input("enter the value"))
-while a<5:
+a=eval(input("ENTER A VALUE(<5)"))
+if a<5:
     print("HELLO")
-    a=a+1
 else:
     print("ENTER THE VALUE WHICH IS LESS THAN 5")
